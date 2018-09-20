@@ -1,4 +1,5 @@
 function RPG
+%%test
 %constants
 g = 9.81; 
 mQ = 0.5; 
